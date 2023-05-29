@@ -4,6 +4,7 @@ Allows connection of max6675 module for temperature control up to 1000 С°. For
 To install, run the commands:
 
 sudo git clone https://github.com/dimontau/cbpi4-max6675.git
+
 sudo pip3 install ./cbpi4-max6675
 
 GPIOs:
