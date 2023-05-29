@@ -8,6 +8,9 @@ sudo pip3 install ./cbpi4-max6675
 
 GPIOs:
 VCC +3.3V
+
 SO(MISO) GPIO 9
+
 SCK(SCLK) GPIO 11
+
 CS is selected in plugin settings
