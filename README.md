@@ -1,6 +1,8 @@
 Plugin for craftbeerpi4.
 Allows connection of max6675 module for temperature control up to 1000 С°. For example, to control the flame of a gas burner.
 
+Plugin based on: cbpi4-pt100x
+
 To install, run the commands:
 
 sudo git clone https://github.com/dimontau/cbpi4-max6675.git
